@@ -19,6 +19,6 @@ Each dashboard is designed to answer business questions and highlight key insigh
 - **Microsoft Power BI**
 - **Microsoft Excel (data source)**
 
-✦ Created as part of DQLab learning projects  
+✦ Created as part of MySkill learning projects  
 ✦ Author: Fadhila Dian Azhara
 
